@@ -1,0 +1,10 @@
+
+{
+  "require" : {
+     "php": ">=5.5.0",
+     "cboden/Ratchet": "dev-master"
+  },
+  "require": {
+        "t1gor/robots-txt-parser": "dev-master"
+    }
+}
